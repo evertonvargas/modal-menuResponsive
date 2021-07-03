@@ -1,0 +1,17 @@
+.App{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App button{
+  border: 1px solid rgb(31, 97, 219);
+  border-radius: 10px;
+  padding: 10px;
+  background: cornflowerblue;
+  color: #fff;
+  cursor: pointer;
+}
+
